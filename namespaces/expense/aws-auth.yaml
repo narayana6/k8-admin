@@ -17,8 +17,7 @@ metadata:
   creationTimestamp: "2026-04-26T03:23:58Z"
   name: aws-auth
   namespace: kube-system
-  
-  uid: a4df7aa0-68d8-4e24-a2ae-d731cb27292f  #don't delete this
+  #uid: a4df7aa0-68d8-4e24-a2ae-d731cb27292f  #don't delete this
 
 
   
